@@ -23,9 +23,10 @@ PRODUCT_PACKAGES := \
     DeskClock \
     Bluetooth \
     Calculator \
-    Calendar \
     Camera2 \
     CertInstaller \
+    CMFileManager \
+    DSPManager \
     Email \
     Exchange2 \
     FusedLocation \
@@ -35,11 +36,9 @@ PRODUCT_PACKAGES := \
     LatinIME \
     Launcher2 \
     Music \
-    MusicFX \
     OneTimeInitializer \
     PrintSpooler \
     Provision \
-    QuickSearchBox \
     Settings \
     SystemUI \
     TeleService \
